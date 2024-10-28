@@ -23,7 +23,7 @@
 <sup>4</sup>Princeton University
 <sup>5</sup>Fudan University<br>
 <small>(* for core authors)</small>
-</div><br>
+</div>
 <div align="center">
 [<a href="XXXX">Paper</a>] | [<a href="https://Zanette-Labs.github.io/SpeculativeRejection">Blog</a>]
 </div>
