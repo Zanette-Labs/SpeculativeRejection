@@ -21,8 +21,9 @@
 <sup>2</sup>University of Virginia
 <sup>3</sup>UC Berkeley<br>
 <sup>4</sup>Princeton University
-<sup>5</sup>Fudan University
-</div>
+<sup>5</sup>Fudan University<br>
+<small>(* for core authors)</small>
+</div><br>
 <div align="center">
 [<a href="XXXX">Paper</a>] | [<a href="https://Zanette-Labs.github.io/SpeculativeRejection">Blog</a>]
 </div>
