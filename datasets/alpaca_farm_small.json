@@ -1,0 +1,52 @@
+[
+    {
+        "JSON_idx": 0,
+        "af_eval_idx": 246,
+        "prompt": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?"
+    },
+    {
+        "JSON_idx": 1,
+        "af_eval_idx": 69,
+        "prompt": "Can you tell me a very easy to way clean a showerhead?"
+    },
+    {
+        "JSON_idx": 2,
+        "af_eval_idx": 665,
+        "prompt": "List the concepts that should be learned before approaching the given complex concept."
+    },
+    {
+        "JSON_idx": 3,
+        "af_eval_idx": 381,
+        "prompt": "Explain the difference between sets and lists in Python."
+    },
+    {
+        "JSON_idx": 4,
+        "af_eval_idx": 355,
+        "prompt": "I am making mayonnaise, it was starting to thicken but now it has become runny and liquid again, is there any way to salvage it?"
+    },
+    {
+        "JSON_idx": 5,
+        "af_eval_idx": 510,
+        "prompt": "Give a brief description of the given category of movies and shows."
+    },
+    {
+        "JSON_idx": 6,
+        "af_eval_idx": 469,
+        "prompt": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\""
+    },
+    {
+        "JSON_idx": 7,
+        "af_eval_idx": 787,
+        "prompt": "Implement a regular expression in Python to validate an email address."
+    },
+    {
+        "JSON_idx": 8,
+        "af_eval_idx": 558,
+        "prompt": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time."
+    },
+    {
+        "JSON_idx": 9,
+        "af_eval_idx": 100,
+        "prompt": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?"
+    }
+]

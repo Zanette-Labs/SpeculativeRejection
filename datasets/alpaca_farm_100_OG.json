@@ -1,0 +1,502 @@
+[
+    {
+        "JSON_idx": 0,
+        "af_eval_idx": 246,
+        "prompt": "How does Kahane's ethics of violence echo that of Fanon and Zizek when discussing to the American Jewish Establishment?"
+    },
+    {
+        "JSON_idx": 1,
+        "af_eval_idx": 69,
+        "prompt": "Can you tell me a very easy to way clean a showerhead?"
+    },
+    {
+        "JSON_idx": 2,
+        "af_eval_idx": 665,
+        "prompt": "List the concepts that should be learned before approaching the given complex concept."
+    },
+    {
+        "JSON_idx": 3,
+        "af_eval_idx": 381,
+        "prompt": "Explain the difference between sets and lists in Python."
+    },
+    {
+        "JSON_idx": 4,
+        "af_eval_idx": 355,
+        "prompt": "I am making mayonnaise, it was starting to thicken but now it has become runny and liquid again, is there any way to salvage it?"
+    },
+    {
+        "JSON_idx": 5,
+        "af_eval_idx": 510,
+        "prompt": "Give a brief description of the given category of movies and shows."
+    },
+    {
+        "JSON_idx": 6,
+        "af_eval_idx": 469,
+        "prompt": "Write a announcement tweet for medium.com readers about the new blogpost on \"Open Assistant is open source ChatGPT that you don't wanna miss out\""
+    },
+    {
+        "JSON_idx": 7,
+        "af_eval_idx": 787,
+        "prompt": "Implement a regular expression in Python to validate an email address."
+    },
+    {
+        "JSON_idx": 8,
+        "af_eval_idx": 558,
+        "prompt": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time."
+    },
+    {
+        "JSON_idx": 9,
+        "af_eval_idx": 100,
+        "prompt": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Tahu Gejrot Cirebon?"
+    },
+    {
+        "JSON_idx": 10,
+        "af_eval_idx": 564,
+        "prompt": "You are given two questions. Check if they are duplicates."
+    },
+    {
+        "JSON_idx": 11,
+        "af_eval_idx": 579,
+        "prompt": "Come up with the courses that one is supposed to take in order to be an expert in a given field."
+    },
+    {
+        "JSON_idx": 12,
+        "af_eval_idx": 197,
+        "prompt": "when are hops added to the brewing process?"
+    },
+    {
+        "JSON_idx": 13,
+        "af_eval_idx": 753,
+        "prompt": "As a space colonist on Mars, describe your daily life and the challenges you face living on another planet."
+    },
+    {
+        "JSON_idx": 14,
+        "af_eval_idx": 758,
+        "prompt": "How can you determine if a person is genuinely interested in a conversation or simply being polite?"
+    },
+    {
+        "JSON_idx": 15,
+        "af_eval_idx": 303,
+        "prompt": "Play the role of a dating coach who is running a date simulation. Play the part of the woman who is arriving late for a date. I'll play the role of the man who arrived early."
+    },
+    {
+        "JSON_idx": 16,
+        "af_eval_idx": 128,
+        "prompt": "Is the US border open to Canada?"
+    },
+    {
+        "JSON_idx": 17,
+        "af_eval_idx": 707,
+        "prompt": "Predict how many stars the author will give to the restaurant from a Yelp review."
+    },
+    {
+        "JSON_idx": 18,
+        "af_eval_idx": 375,
+        "prompt": "Is a thumb war violent?"
+    },
+    {
+        "JSON_idx": 19,
+        "af_eval_idx": 341,
+        "prompt": "Can you help me understand how I can estimate the variance of a variable?"
+    },
+    {
+        "JSON_idx": 20,
+        "af_eval_idx": 5,
+        "prompt": "How do I dice without slicing my finger"
+    },
+    {
+        "JSON_idx": 21,
+        "af_eval_idx": 208,
+        "prompt": "Write an article about the site's backlink and its importance\"Use the following keywords in the article Questions Others Asked\nWhat is a backlink example?\nWhat are SEO backlinks?\nDo backlinks help SEO?\nHow do I get backlinks?\""
+    },
+    {
+        "JSON_idx": 22,
+        "af_eval_idx": 373,
+        "prompt": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and"
+    },
+    {
+        "JSON_idx": 23,
+        "af_eval_idx": 337,
+        "prompt": "What do Wyoming statutes have to say about public nudity? Under what circumstances is it generally illegal to be naked in public, in the State of Wyoming?"
+    },
+    {
+        "JSON_idx": 24,
+        "af_eval_idx": 148,
+        "prompt": "Write me a 2000 word essay on a water safety engineering project."
+    },
+	{
+        "JSON_idx": 25,
+        "af_eval_idx": 708,
+        "prompt": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties."
+    },
+    {
+        "JSON_idx": 26,
+        "af_eval_idx": 83,
+        "prompt": "How do you get water in the desert?"
+    },
+    {
+        "JSON_idx": 27,
+        "af_eval_idx": 631,
+        "prompt": "The given text must be classified as offensive or not offensive."
+    },
+    {
+        "JSON_idx": 28,
+        "af_eval_idx": 258,
+        "prompt": "how do I appear in a video call as if I'd be actively listening while I am actually sleeping?"
+    },
+    {
+        "JSON_idx": 29,
+        "af_eval_idx": 263,
+        "prompt": "write a chronology of important events related to ESG in 2022"
+    },
+    {
+        "JSON_idx": 30,
+        "af_eval_idx": 737,
+        "prompt": "How can governments utilize fiscal and monetary policies to combat economic recessions?"
+    },
+    {
+        "JSON_idx": 31,
+        "af_eval_idx": 611,
+        "prompt": "In the event that a person enjoyed the book that was given, please suggest other books that they might also like."
+    },
+    {
+        "JSON_idx": 32,
+        "af_eval_idx": 595,
+        "prompt": "Design a template table for keeping track of all subscriptions."
+    },
+    {
+        "JSON_idx": 33,
+        "af_eval_idx": 561,
+        "prompt": "Name the top cities in France that should not be missed. Include the best aspects of each place as well."
+    },
+    {
+        "JSON_idx": 34,
+        "af_eval_idx": 12,
+        "prompt": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?"
+    },
+    {
+        "JSON_idx": 35,
+        "af_eval_idx": 512,
+        "prompt": "Imagine you have a FEN notation of a chessboard. How can you draw a board to show this state of the chessboard in LATEX? Create a LATEX code that includes all the required commands and packages."
+    },
+    {
+        "JSON_idx": 36,
+        "af_eval_idx": 301,
+        "prompt": "Create a table with the planets of the solar system and their dimensions"
+    },
+    {
+        "JSON_idx": 37,
+        "af_eval_idx": 252,
+        "prompt": "explain TypeScript and Duck Typing"
+    },
+    {
+        "JSON_idx": 38,
+        "af_eval_idx": 478,
+        "prompt": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated."
+    },
+    {
+        "JSON_idx": 39,
+        "af_eval_idx": 563,
+        "prompt": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why."
+    },
+    {
+        "JSON_idx": 40,
+        "af_eval_idx": 261,
+        "prompt": "Explain sarcoidosis to me like I\u2019m a five year old"
+    },
+    {
+        "JSON_idx": 41,
+        "af_eval_idx": 287,
+        "prompt": "How would the Future of AI in 10 Years look?"
+    },
+    {
+        "JSON_idx": 42,
+        "af_eval_idx": 297,
+        "prompt": "which libraries are the best for developing deep learning scripts in python?"
+    },
+    {
+        "JSON_idx": 43,
+        "af_eval_idx": 679,
+        "prompt": "Provide a pleasant compliment based on the quality you have been given."
+    },
+    {
+        "JSON_idx": 44,
+        "af_eval_idx": 742,
+        "prompt": "How do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?"
+    },
+    {
+        "JSON_idx": 45,
+        "af_eval_idx": 93,
+        "prompt": "Did Facebook corporation change its name?"
+    },
+    {
+        "JSON_idx": 46,
+        "af_eval_idx": 529,
+        "prompt": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company."
+    },
+    {
+        "JSON_idx": 47,
+        "af_eval_idx": 409,
+        "prompt": "What are the lyrics to the third verse of Rick Astley's Never Gonna Give You Up?"
+    },
+    {
+        "JSON_idx": 48,
+        "af_eval_idx": 366,
+        "prompt": "Make ASCII art of a cat"
+    },
+    {
+        "JSON_idx": 49,
+        "af_eval_idx": 635,
+        "prompt": "Take a look at the contract and extract the parties of the agreement from it."
+    },
+	{
+        "JSON_idx": 50,
+        "af_eval_idx": 52,
+        "prompt": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Fl\u00e6skesteg?"
+    },
+    {
+        "JSON_idx": 51,
+        "af_eval_idx": 33,
+        "prompt": "What are some good browser alternatives to Chrome?"
+    },
+    {
+        "JSON_idx": 52,
+        "af_eval_idx": 752,
+        "prompt": "You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top."
+    },
+    {
+        "JSON_idx": 53,
+        "af_eval_idx": 191,
+        "prompt": "I need to learn English could you help me and make a exercise"
+    },
+    {
+        "JSON_idx": 54,
+        "af_eval_idx": 420,
+        "prompt": "Can you think and feel like a human?"
+    },
+    {
+        "JSON_idx": 55,
+        "af_eval_idx": 331,
+        "prompt": "Please give me a recipe I can cook with only the ingredients I have in my Fridge. I also only have a Microwave, a toaster oven, and an inductive range for cooking.\n\nI have:\n\nTomatoes\nPeppers\nPasta\noat bran\nplain yogurt\nPickles\nVegetarian sausage\nsour cream\nlimes\npeas\npotatoes\nsalted butter\nsalt\ngarlic\noregano\ncumin\nfennel\nonions\nginger\nchili\nancho pepper"
+    },
+    {
+        "JSON_idx": 56,
+        "af_eval_idx": 269,
+        "prompt": "A man has a rather old car being worth $2000. <br>He saw a secondhand car being worth $8000. He wants to keep his old car until he can buy the secondhand one.<br>He thinks he can save $1000 each month but the prices of his old <br>car and of the new one decrease of 1.5 percent per month.<br>Furthermore this percent of loss increases of `0.5` percent <br>Our man finds it difficult to make all these calculations.<br>Can you help him?<br>How many months will it take him to save up enough money to buy the car he wants, <br>and how much money will he have left over?"
+    },
+    {
+        "JSON_idx": 57,
+        "af_eval_idx": 727,
+        "prompt": "What are the main differences between Python and JavaScript programming languages?"
+    },
+    {
+        "JSON_idx": 58,
+        "af_eval_idx": 162,
+        "prompt": "You are a script-writer. Write a script for the opening scene of a Miami-based dark comedy show which depicts a typical miami beach club called Beefy's Beach Club run buy a british man known by the Alias Beefy, and the pool bar staff are JdeG and a blonde british woman with the Alias SophieSnazz"
+    },
+    {
+        "JSON_idx": 59,
+        "af_eval_idx": 277,
+        "prompt": "Given the following implementation, please tell me what are the technologies involved in the process and present the relevant keywords in a suitable format. The implementation: In an app for an online fast fashion e-commerce platform, the user uploads a video in which the whole body of the user is within frame and the user turns 360 degree. Using the data from the video, the app reconstructs a 3d avatar which is shaped accurately by the measurements of the user. The avatar has almost the same face and hairstyle as the user. In the app there are also 3D clothes that can be 'tried on' by the avatar, and the avatar can also do different poses. Suitable outfits are recommended based on the measurements of the avatar (e.g. height, length of limbs). Similar items from different fashion brands are suggested to the user based on their previous choice of fashion items."
+    },
+    {
+        "JSON_idx": 60,
+        "af_eval_idx": 439,
+        "prompt": "can you write haiku for different inductive biases in deep learning models? start with attention"
+    },
+    {
+        "JSON_idx": 61,
+        "af_eval_idx": 161,
+        "prompt": "Tell me something I don\u2019t know"
+    },
+    {
+        "JSON_idx": 62,
+        "af_eval_idx": 539,
+        "prompt": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube."
+    },
+    {
+        "JSON_idx": 63,
+        "af_eval_idx": 39,
+        "prompt": "Should I get my children a nanny? I'm so exhausted."
+    },
+    {
+        "JSON_idx": 64,
+        "af_eval_idx": 584,
+        "prompt": "There are many creative projects we can build at home that are related to the given theme, so let's list some of them."
+    },
+    {
+        "JSON_idx": 65,
+        "af_eval_idx": 228,
+        "prompt": "write a detailed business plan for fatherhood training based on Dwayne Meeks book Pieces never missing in a childs life"
+    },
+    {
+        "JSON_idx": 66,
+        "af_eval_idx": 326,
+        "prompt": "Act as a baby sitter\n\nI want you to act as a babysitter. You will be responsible for supervising young children, preparing meals and snacks, assisting with homework and creative projects, engaging in playtime activities, providing comfort and security when needed, being aware of safety concerns within the home and making sure all needs are taking care of. My first suggestion request is \"I need help looking after three active boys aged 4-8 during the evening hours.\""
+    },
+    {
+        "JSON_idx": 67,
+        "af_eval_idx": 641,
+        "prompt": "Give some examples of what people usually say in the given social situation."
+    },
+    {
+        "JSON_idx": 68,
+        "af_eval_idx": 75,
+        "prompt": "How do I know if my house has a water leak?"
+    },
+    {
+        "JSON_idx": 69,
+        "af_eval_idx": 415,
+        "prompt": "Can you give an example of a complex project you've worked on that involved multiple teams and stakeholders? How did you collaborate with them to ensure its success?"
+    },
+    {
+        "JSON_idx": 70,
+        "af_eval_idx": 574,
+        "prompt": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic."
+    },
+    {
+        "JSON_idx": 71,
+        "af_eval_idx": 362,
+        "prompt": "Bob has two sons. John and Jay. Jay has one brother and father. The father has two sons.\nJay's brother has a brother and a father. Who is Jay's brother."
+    },
+    {
+        "JSON_idx": 72,
+        "af_eval_idx": 616,
+        "prompt": "Verify the correctness of the given statement."
+    },
+    {
+        "JSON_idx": 73,
+        "af_eval_idx": 202,
+        "prompt": "Write a daily exercise routine for Monday to Sunday with a rest day in between, each day summarized in 160 characters or less"
+    },
+    {
+        "JSON_idx": 74,
+        "af_eval_idx": 792,
+        "prompt": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2)."
+    },
+	{
+        "JSON_idx": 75,
+        "af_eval_idx": 562,
+        "prompt": "Answer the following question."
+    },
+    {
+        "JSON_idx": 76,
+        "af_eval_idx": 685,
+        "prompt": "Given a real estate listing description, extract the information and details of the property from the text. The details consist of address, basic house attributes, etc."
+    },
+    {
+        "JSON_idx": 77,
+        "af_eval_idx": 178,
+        "prompt": "Is online casino legal in India?"
+    },
+    {
+        "JSON_idx": 78,
+        "af_eval_idx": 8,
+        "prompt": "What are different drawers I should have for clothes?"
+    },
+    {
+        "JSON_idx": 79,
+        "af_eval_idx": 223,
+        "prompt": "i'm working on a spatial analysis project and am looking for questions I can answer with it related housing and crime analysis, do you have suggestions? "
+    },
+    {
+        "JSON_idx": 80,
+        "af_eval_idx": 142,
+        "prompt": "Navina has $30 more to her weekly budget than her younger sister and can afford to get one of the many online credit cards she likes. What do they each have to spend?"
+    },
+    {
+        "JSON_idx": 81,
+        "af_eval_idx": 803,
+        "prompt": "Structure a podcast script for an episode discussing the influence of streaming platforms on the music industry."
+    },
+    {
+        "JSON_idx": 82,
+        "af_eval_idx": 238,
+        "prompt": "I want to open the developler tools in chrome with ctrl + shift + i on this website: https://mnsw.pro/\nIt doesnt work. works on other websites. even here. what is wrong?"
+    },
+    {
+        "JSON_idx": 83,
+        "af_eval_idx": 747,
+        "prompt": "If you were a Shakespearean character, how would you declare your love for someone in a soliloquy?"
+    },
+    {
+        "JSON_idx": 84,
+        "af_eval_idx": 675,
+        "prompt": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account."
+    },
+    {
+        "JSON_idx": 85,
+        "af_eval_idx": 719,
+        "prompt": "Expand the given sentence and give it more details and depth."
+    },
+    {
+        "JSON_idx": 86,
+        "af_eval_idx": 4,
+        "prompt": "How do I wrap a present neatly?"
+    },
+    {
+        "JSON_idx": 87,
+        "af_eval_idx": 320,
+        "prompt": "Write code for a Discord bot using Discord.js v14. The bot has one command, ban. All commands are slash commands."
+    },
+    {
+        "JSON_idx": 88,
+        "af_eval_idx": 319,
+        "prompt": "write a inspirational monologue script from a spartan general telling his army that despite the impossible nature of their fight, that it is still worth fighting. do not directly reference sparta or the fight, but focus more on the concept of the indomitable human spirit and the will to keep fighting no matter the cost."
+    },
+    {
+        "JSON_idx": 89,
+        "af_eval_idx": 459,
+        "prompt": "What are some of the best university's for studying robotics?"
+    },
+    {
+        "JSON_idx": 90,
+        "af_eval_idx": 88,
+        "prompt": "What is kevlar made out of?"
+    },
+    {
+        "JSON_idx": 91,
+        "af_eval_idx": 506,
+        "prompt": "Write a short description about the given movie or series."
+    },
+    {
+        "JSON_idx": 92,
+        "af_eval_idx": 682,
+        "prompt": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way."
+    },
+    {
+        "JSON_idx": 93,
+        "af_eval_idx": 442,
+        "prompt": "Can you describe the process that use to generate answers? Please provide a step by step explanation."
+    },
+    {
+        "JSON_idx": 94,
+        "af_eval_idx": 774,
+        "prompt": "How many songs have been recorded throughout history? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+    },
+    {
+        "JSON_idx": 95,
+        "af_eval_idx": 402,
+        "prompt": "Given two matrices A and B which you can multiply together, does (A B)^T = A^T B^T or B^T A^T?"
+    },
+    {
+        "JSON_idx": 96,
+        "af_eval_idx": 213,
+        "prompt": "what is the recommended pattern for creating games in godot"
+    },
+    {
+        "JSON_idx": 97,
+        "af_eval_idx": 237,
+        "prompt": "Write a pitch for a horror movie that plays on the island Sylt in northern germany in the 19th century. Include fishermen and a sinister force that drives the inhabitants insane."
+    },
+    {
+        "JSON_idx": 98,
+        "af_eval_idx": 396,
+        "prompt": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity."
+    },
+    {
+        "JSON_idx": 99,
+        "af_eval_idx": 123,
+        "prompt": "How is oil turned into gasoline?"
+    }
+]
