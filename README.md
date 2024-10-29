@@ -21,11 +21,10 @@
 <sup>2</sup>University of Virginia
 <sup>3</sup>UC Berkeley<br>
 <sup>4</sup>Princeton University
-<sup>5</sup>Fudan University<br>
-<small>(* for core authors)</small>
+<sup>5</sup>Fudan University
 </div>
 <div align="center">
-[<a href="XXXX">Paper</a>] | [<a href="https://Zanette-Labs.github.io/SpeculativeRejection">Blog</a>]
+[<a href="https://arxiv.org/abs/2410.20290">Paper</a>] | [<a href="https://Zanette-Labs.github.io/SpeculativeRejection">Blog</a>]
 </div>
 <br>
 
@@ -106,7 +105,7 @@ If you find Speculative Rejection useful or relevant to your project and researc
 @article{sun2024fast,
   title={Fast Best-of-N Decoding via Speculative Rejection},
   author={Sun, Hanshi and Haider, Momin and Zhang, Ruiqi and Yang, Huitao and Qiu, Jiahao and Yin, Ming and Wang, Mengdi and Bartlett, Peter and Zanette, Andrea},
-  journal={arXiv preprint arXiv:XXXX.XXXX},
+  journal={arXiv preprint arXiv:2410.20290},
   year={2024}
 }
 ```
